@@ -1,6 +1,6 @@
 """
 Data Wrangling Exercise Example
-Candidate: Marcos Recio
+Marcos Recio
 """
 import pandas as pd
 
